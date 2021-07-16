@@ -5,7 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
-
+   
 /* Begin PBXBuildFile section */
 		8C1B0160137A57D8001CBEC2 /* bgm01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8C1B015F137A57D8001CBEC2 /* bgm01.mp3 */; };
 		8C1B016A137A6651001CBEC2 /* MenuItem1_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1B0162137A664E001CBEC2 /* MenuItem1_on.png */; };
